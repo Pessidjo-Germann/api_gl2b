@@ -1,6 +1,6 @@
 <?php
 
-header("Access-Control-Origin:v*");
+header("Access-Control-Origin:*");
 header("Content-Type: application/json");
 header("Access-Control-Methods: GET");
 
